@@ -22,11 +22,11 @@ To use these boilerplates, clone the repository and navigate to the directory th
   - Python: Python and pip
   - Node.js: Node.js and npm or yarn
 
-### Installation
+## Installation
 
 Here is a quick start guide for each boilerplate:
 
-#### Java Spring Boot
+## Java Spring Boot
 
 Navigate to the `JavaSpringGeneric-MongoDB/Write-Relief-api` directory:
 
