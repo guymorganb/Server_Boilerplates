@@ -88,3 +88,8 @@ Open a Pull Request
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details inside each directory.
+
+## Contact
+
+If you have questions dont hesitate to reach me at guymorganb@gmail.com
+give me a follow on instagram if you found this useful! @guyycodes, Id love to keep making more useful things. 
