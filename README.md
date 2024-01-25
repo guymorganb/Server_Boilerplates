@@ -33,7 +33,7 @@ Navigate to the `JavaSpringGeneric-MongoDB/Write-Relief-api` directory:
 ```bash
 cd JavaSpringGeneric-MongoDB/Write-Relief-api
 ```
-nstall the dependencies using Maven:
+Install the dependencies using Maven:
 ```bash
 mvn install
 ```
